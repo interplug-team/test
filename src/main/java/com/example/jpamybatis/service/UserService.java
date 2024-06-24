@@ -47,6 +47,7 @@ public class UserService {
         userDao.insertMybatis(userEntity);
 
 
+        int a = 1 / 0;
 
     }
 }
